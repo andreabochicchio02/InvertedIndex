@@ -1,6 +1,8 @@
-# Cloud Computing Project - Inverted Index Implementation
+# Inverted Index Implementation
 
-This project implements an inverted index system using different technologies and approaches: Hadoop, Spark, and Python. The project compares the performance and results of these different implementations.
+This project implements an inverted index system using different technologies and approaches: Hadoop, Spark, and Python. The project compares the performance and results of these different implementations. <br>
+
+[PROJECT DOCUMENTATION](https://github.com/andreabochicchio02/InvertedIndex/blob/main/Project%20Documentation.pdf)
 
 ## Project Structure
 
